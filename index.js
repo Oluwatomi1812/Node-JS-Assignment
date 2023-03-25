@@ -1,0 +1,1 @@
+console.log("My name is Fowobaje Oluwatomi. My preferred programming language is JavaScript. In the next one year, I see myself working for in a tech company earning my millions while still in school.")
